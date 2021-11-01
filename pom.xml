@@ -128,6 +128,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>Epictask-CP03</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
