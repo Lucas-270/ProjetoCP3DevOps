@@ -12,7 +12,7 @@ import lombok.Data;
 
 @Data
 @Entity
-@Table(name = "tb_role")
+@Table(name = "role")
 public class Role implements GrantedAuthority {
 
 	private static final long serialVersionUID = 1L;
