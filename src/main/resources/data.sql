@@ -7,7 +7,7 @@ CREATE TABLE task (
 	user_id int
 );
 
-CREATE TABLE user (
+CREATE TABLE tb_user (
 	id bigint PRIMARY KEY auto_increment,
 	name varchar(200),
 	email varchar(200),
